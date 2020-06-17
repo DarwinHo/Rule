@@ -1,0 +1,2 @@
+# Gear Unlock Pro （by LTribe）
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body Gear.js
